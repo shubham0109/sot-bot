@@ -1,0 +1,14 @@
+{
+  "name": "sot-bot",
+  "version": "1.0.0",
+  "description": "bot who smokes and drinks a lot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kshubham",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
